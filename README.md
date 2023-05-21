@@ -1,4 +1,4 @@
-# 🔥 POC-bomber
+#  POC-bomber
  **POC bomber 是一款漏洞检测/利用工具，旨在利用大量高危害漏洞的POC/EXP快速获取目标服务器权限**
 
 可用于但不限于：
